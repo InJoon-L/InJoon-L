@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">💪🏻  My State 💪🏻</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=InJoon LEE&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=InJoon LEE&layout=compact&count_private=true&langs_count=30)
+![](https://github-readme-stats.vercel.app/api?username=InJoon-L&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=InJoon-L&layout=compact&count_private=true&langs_count=30)
