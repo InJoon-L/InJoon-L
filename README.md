@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">💪🏻  My State 💪🏻</h3>
+<h3 align="center">�🏻  My State �🏻</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=InJoon-L&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=InJoon-L&layout=compact&count_private=true&langs_count=30)
